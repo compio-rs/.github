@@ -48,7 +48,7 @@ A high-performance, asynchronous runtime-agnostic alternative to `tokio::sync::w
 
 ## Community
 
-- **Telegram:** Join our [telegram group](https://t.me/compio_rs) for discussions and support
+- **Telegram:** Join our [Telegram group](https://t.me/compio_rs) for discussions and support
 - **Website:** [compio.rs](https://compio.rs)
 - **GitHub:** [github.com/compio-rs](https://github.com/compio-rs)
 
