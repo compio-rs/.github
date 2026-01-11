@@ -38,6 +38,20 @@ An asynchronous runtime-agnostic alternative to `tokio::sync::watch`.
 [![crates.io](https://img.shields.io/crates/v/see)](https://crates.io/crates/see)
 [![docs.rs](https://img.shields.io/badge/docs.rs-see-latest)](https://docs.rs/see)
 
+### [synchrony](https://github.com/compio-rs/synchrony)
+A library that provides both sync and unsync versions of common synchronization primitives. 
+
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/compio-rs/synchrony/blob/master/LICENSE)
+[![crates.io](https://img.shields.io/crates/v/synchrony)](https://crates.io/crates/synchrony)
+[![docs.rs](https://img.shields.io/badge/docs.rs-synchrony-latest)](https://docs.rs/synchrony)
+
+### [thin-cell](https://github.com/compio-rs/thin-cell)
+A compact, single-threaded smart pointer combining reference counting and interior mutability 
+
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/compio-rs/thin-cell/blob/master/LICENSE)
+[![crates.io](https://img.shields.io/crates/v/thin-cell)](https://crates.io/crates/thin-cell)
+[![docs.rs](https://img.shields.io/badge/docs.rs-thin--cell-latest)](https://docs.rs/thin-cell)
+
 ## Contributing
 
 We welcome contributions to all our projects! Whether you're just getting started with Rust or are an experienced developer, there are opportunities to contribute at any level. Please check the `CONTRIBUTING.md` file in each project's repository for guidelines.
