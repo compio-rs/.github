@@ -4,7 +4,8 @@ Welcome to the compio-rs organization! We develop compio, an asynchronous runtim
 
 ## Community
 
-- **Telegram:** Join our [Telegram group](https://t.me/compio_rs) for discussions and support
+- **Telegram:** Join our [Telegram group](https://t.me/compio_rs) or
+- **Discord:** Join [Discord Server](https://discord.gg/bGG8EF9v) for discussions and support
 - **Website:** [compio.rs](https://compio.rs)
 
 ## Projects
